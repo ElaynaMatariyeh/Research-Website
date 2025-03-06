@@ -1,0 +1,29 @@
+        h2 {
+            background-color: gray;
+            color: powderblue;
+        }
+        .heading {
+            background-color: cornflowerblue;
+        }
+        #back {
+            background-color: lightgray;
+        }
+        #contents {
+            background-color: lightcyan;
+        }
+        .text{
+            color:cadetblue;
+        }
+    header {
+        color:red;
+        font-size:40px;
+        font-family:fantasy;
+        text-align:center
+    }
+    .heading:hover {
+        color:skyblue
+        text-decoration:none
+    }
+    .center {
+        text-align:center
+    }
